@@ -1,3 +1,3 @@
-pso2-hero-guide
+# A PSO2 Guide for Hero
 
-A guide for PSO2, on the class Hero (Hr).
+A PSO2 Guide for the Action RPG PSO2, for the class Hero, written with Twitter's Bootstrap 4.
